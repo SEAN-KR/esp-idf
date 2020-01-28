@@ -79,3 +79,6 @@
 	path = components/esp_wifi/lib
 	url = ../../espressif/esp32-wifi-lib.git
 
+[submodule "examples/bluetooth/esp_ble_mesh/ble_mesh_fast_provision/EspBLEMeshForAndroid"]
+	path = examples/bluetooth/esp_ble_mesh/ble_mesh_fast_provision/EspBLEMeshForAndroid
+	url = https://github.com/SEAN-KR/EspBLEMeshForAndroid.git
