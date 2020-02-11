@@ -112,4 +112,8 @@ This can be combined with other targets, ie `idf.py -p PORT erase_flash flash` w
 
 * If you're interested in contributing to ESP-IDF, please check the [Contributions Guide](https://docs.espressif.com/projects/esp-idf/en/latest/contribute/index.html).
 
-
+# 동영상 설치 가이드
+## ESP32
+[![Video Label](http://img.youtube.com/vi/avd_VJ5OA-c/0.jpg)](https://youtu.be/avd_VJ5OA-c?t=0s)
+## 안드로이드
+[![Video Label](http://img.youtube.com/vi/ezinOQ3Pr4E/0.jpg)](https://youtu.be/ezinOQ3Pr4E?t=0s)
